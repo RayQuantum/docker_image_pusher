@@ -1,4 +1,6 @@
 nginx
+frpc
+frps
 #支持私库
 weejewel/wg-easy
 xhofe/alist:latest
