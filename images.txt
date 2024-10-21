@@ -1,6 +1,4 @@
 nginx
-frpc
-frps
 mongo:v5.0.18
 #支持私库
 weejewel/wg-easy
