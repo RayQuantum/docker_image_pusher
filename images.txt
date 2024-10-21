@@ -1,8 +1,10 @@
 nginx
 frpc
 frps
+mongo:5.0.18
 #支持私库
 weejewel/wg-easy
 xhofe/alist:latest
+ankane/pgvector
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
