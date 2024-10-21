@@ -1,7 +1,7 @@
 nginx
 frpc
 frps
-mongo:5.0.18
+mongo
 #支持私库
 weejewel/wg-easy
 xhofe/alist:latest
