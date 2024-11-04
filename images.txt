@@ -1,8 +1,7 @@
 nginx
-mongo:v5.0.18
 #支持私库
 weejewel/wg-easy
 xhofe/alist:latest
-ankane/pgvector:v0.5.1
+keynetworks/ztncui
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
